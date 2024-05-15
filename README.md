@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Esther Walton</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-- 🔭 I’m currently working on **Maji Ndogo project**
+🔭 I’m currently working on **Maji Ndogo project**
 
-- 🌱 I’m currently learning **Data analytics with Python**
+🌱 I’m currently learning **Data analytics with Python**
 
-- 💬 Ask me about **Python, SQL, Power Bi, excel, Google sheets**
+💬 Ask me about **Python, SQL, Power BI, Excel, Google Sheets**
 
-- 📫 How to reach me **estherwalton27@outlook.com**
+📫 How to reach me **estherwalton27@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
