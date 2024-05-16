@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Esther Walton</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-🔭 I’m currently working on **Maji Ndogo project**
+🔭 I’m currently working on **The Experience project**
 
 🌱 I’m currently learning **Data analytics with Python**
+
+  --  I am seeking opportunities to collaborate on projects focusing on data analysis and visualization to gain practical experience and enhance my skill set.
 
 💬 Ask me about **Python, SQL, Power BI, Excel, Google Sheets**
 
